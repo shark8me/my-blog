@@ -10,7 +10,7 @@
 <p><a href="https://vimeo.com/87118206">Gorilla REPL introduction</a> from <a href="https://vimeo.com/user25262253">JonyEpsilon</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
-I wanted the ability to add a new blog post, where the contents of the post are an (externally hosted) Gorilla repl worksheet, such as on Github. I discovered the Cryogen blog engine (again, written in Clojure), and I was able to add support to host Gorilla-repl worksheets to the same.
+I wanted the ability to add a new blog post, where the contents of the post are an (externally hosted) Gorilla repl worksheet, such as on Github. I discovered the [Cryogen blog engine](http://cryogenweb.org/) (again, written in Clojure), and I was able to add support to host Gorilla-repl worksheets to the same.
 
 Currently this work remains as a pull request on the Cryogen project.
 
