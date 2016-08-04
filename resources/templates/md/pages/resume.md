@@ -1,6 +1,6 @@
 {:title "Resume"
  :layout :page
- :navbar? true}
+ :navbar? false}
 
 Kiran Karkera
 
