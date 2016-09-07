@@ -1,6 +1,7 @@
 {:title "Multi Target Regression"
  :layout :post
  :page-index 0
+ :draft? true
  :tags ["Regression" "Multi target regression"]
  }
 
@@ -16,8 +17,9 @@ In the realm of classification models, a problem with multiple target variables 
 
 In the realm of regression models, as a beginner, I found the nomenclature a bit confusing. 
 
-* A Simple regression model is one that attempts to fit a linear regression model with a single explanatory variable.
-* 
+* A Simple regression model is one that attempts to fit a linear regression model with a single explanatory/independent variable.
+* Multiple regression model is one that attempts to predict a dependent variable which is based on the value of two or more independent variables. Example: can daily cigarette consumption be predicted based on smoking duration, age when started smoking, income, gender etc.
+* Multi target regression is the term used when there are multiple dependent variables.
 
 
 
