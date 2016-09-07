@@ -1,7 +1,7 @@
 {:title "A Facebook messenger bot in Clojure on Heroku-part II"
  :layout :post
  :page-index 0
- :tags ["FB Messenger bot Clojure+HerokuBot" "FB Chatbot"]
+ :tags ["Facebook Messenger bot Clojure" "Facebook Chatbot"]
  }
 
 Here's Part II of the guide to building a Facebook messenger bot using Clojure and Heroku.

@@ -1,7 +1,7 @@
 {:title "A Facebook messenger bot in Clojure on Heroku -Part I"
  :layout :post
  :page-index 0
- :tags ["FB Messenger bot Clojure+HerokuBot" "FB Chatbot"]
+ :tags ["Facebook Messenger bot Clojure" "Facebook Chatbot"]
  }
 
 
