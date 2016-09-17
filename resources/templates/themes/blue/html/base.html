@@ -73,12 +73,12 @@
             <div id="sidebar">
                 <h3>Links</h3>
                 <ul id="links">
-                    <li><a href="http://ketnowledge.blogspot.com">My Old Blog</a></li>
-                    <li><a href="https://www.linkedin.com/in/karkerakiran">LinkedIn</a></li>
                     <li><a href="https://github.com/shark8me">Github</a></li>
+                    <li><a href="https://www.linkedin.com/in/karkerakiran">LinkedIn</a></li>
                     {% for page in sidebar-pages %}
                     <li><a href="{{page.uri}}">{{page.title}}</a></li>
                     {% endfor %}
+                    <li><a href="http://ketnowledge.blogspot.com">My Old Blog</a></li>
                 </ul>
                 {% if latest-posts|not-empty %}
                 <div id="recent">
